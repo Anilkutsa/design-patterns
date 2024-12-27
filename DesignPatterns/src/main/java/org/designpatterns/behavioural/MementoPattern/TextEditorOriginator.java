@@ -1,4 +1,4 @@
-package org.designpatterns.behavioural.memento;
+package org.designpatterns.behavioural.MementoPattern;
 
 /** A text editor where the user can undo changes, such as text addition, deletion,
  or formatting. The editor stores snapshots of its state (text content)

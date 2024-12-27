@@ -1,4 +1,4 @@
-package org.designpatterns.behavioural.memento;
+package org.designpatterns.behavioural.MementoPattern;
 
 //Memento Class: Stores the internal state of the TextEditorOriginator
 public class EditorMemento {

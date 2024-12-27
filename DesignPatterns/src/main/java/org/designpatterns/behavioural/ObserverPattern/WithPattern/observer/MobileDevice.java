@@ -1,4 +1,4 @@
-package org.designpatterns.behavioural.observer.observer;
+package org.designpatterns.behavioural.ObserverPattern.WithPattern.observer;
 
 public class MobileDevice implements Observer {
     @Override

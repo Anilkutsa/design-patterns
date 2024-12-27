@@ -1,4 +1,4 @@
-package org.designpatterns.behavioural.memento;
+package org.designpatterns.behavioural.MementoPattern;
 
 /**
  * The Memento Pattern is a behavioral design pattern that helps us save and restore the state of an object without exposing its internal details. Think of it like a "Save Game" feature in video games, where you can save your progress and later go back to that saved point.

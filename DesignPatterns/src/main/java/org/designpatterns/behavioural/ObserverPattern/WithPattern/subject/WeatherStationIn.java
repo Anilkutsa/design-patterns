@@ -1,6 +1,6 @@
-package org.designpatterns.behavioural.observer.subject;
+package org.designpatterns.behavioural.ObserverPattern.WithPattern.subject;
 
-import org.designpatterns.behavioural.observer.observer.Observer;
+import org.designpatterns.behavioural.ObserverPattern.WithPattern.observer.Observer;
 
 import java.util.ArrayList;
 import java.util.List;
